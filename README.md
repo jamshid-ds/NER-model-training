@@ -11,7 +11,7 @@ The project implements a neural network model for Named Entity Recognition using
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - TensorFlow
 - Transformers
 - NumPy
