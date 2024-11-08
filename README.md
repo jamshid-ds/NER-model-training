@@ -76,6 +76,10 @@ Training progress is visualized through:
 - Loss curves
 - Accuracy curves
 
+## Metrics
+
+Loss:0.015, Accuracy:0.996
+
 ## Code Structure
 
 - Data loading and preprocessing
@@ -85,11 +89,7 @@ Training progress is visualized through:
 - Performance visualization
 - Validation
 
-## Results Visualization
 
-The script generates two plots:
-1. Training and Validation Loss curves
-2. Training and Validation Accuracy curves
 
 ## Citation
 
@@ -102,3 +102,12 @@ The script generates two plots:
     pages = "142--147"
 }
 ```
+## Accuracy
+
+![image](https://github.com/user-attachments/assets/4b387763-4dc5-40d8-9fe3-e24efecaa147)
+
+## Losses
+
+![image](https://github.com/user-attachments/assets/7747eef4-e132-4c81-afd6-af094ffef20a)
+
+
